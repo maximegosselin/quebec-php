@@ -87,6 +87,7 @@ seulement.
 |---|---|---|---|---|---|
 | Secrétariat du Conseil du trésor | [tresor.gouv.qc.ca](https://www.tresor.gouv.qc.ca/) | TYPO3 | 1, 2, 5 | Statistiques Matomo | [2026-10-23](preuves/tresor.gouv.qc.ca.md) |
 | Service d'authentification gouvernementale | [authentification.quebec.ca](https://authentification.quebec.ca/) | TYPO3 | 1, 2, 5 |  | [2026-10-23](preuves/authentification.quebec.ca.md) |
+| Services Québec : localisateur de bureaux | [localisateur.servicesquebec.gouv.qc.ca](https://www.localisateur.servicesquebec.gouv.qc.ca/) | Drupal | 5 |  | [2026-10-25](preuves/localisateur.servicesquebec.gouv.qc.ca.md) |
 
 ### Organismes
 
@@ -177,6 +178,7 @@ seulement.
 | Tribunal administratif du travail | [tat.gouv.qc.ca](https://tat.gouv.qc.ca/) | TYPO3 | 1, 2, 5 |  | [2026-10-23](preuves/tat.gouv.qc.ca.md) |
 | Tribunal des droits de la personne | [tribunaldesdroitsdelapersonne.ca](https://tribunaldesdroitsdelapersonne.ca/) | TYPO3 | 1, 2, 5 |  | [2026-10-23](preuves/tribunaldesdroitsdelapersonne.ca.md) |
 | Tribunal des professions | [tribunaldesprofessions.ca](https://tribunaldesprofessions.ca/) | TYPO3 | 1, 2, 5 |  | [2026-10-23](preuves/tribunaldesprofessions.ca.md) |
+| Tribunaux judiciaires du Québec | [tribunaux.qc.ca](https://tribunaux.qc.ca/) | TYPO3 | 1, 2, 5 |  | [2026-10-25](preuves/tribunaux.qc.ca.md) |
 
 ### Santé
 
@@ -387,6 +389,7 @@ indiquée en note ; sinon, la technologie n'est pas déterminée.
 | Office de la sécurité du revenu des chasseurs et piégeurs cris | [osrcpc.ca](https://osrcpc.ca/) | Redirige vers chasseurcri.ca | [2026-10-23](preuves/osrcpc.ca.md) |
 | Office Québec-Monde pour la jeunesse | [lojiq.org](https://lojiq.org/) |  | [2026-10-23](preuves/lojiq.org.md) |
 | Office québécois de la langue française | [oqlf.gouv.qc.ca](https://www.oqlf.gouv.qc.ca/) | ASP.NET (`.aspx`) | [2026-10-23](preuves/oqlf.gouv.qc.ca.md) |
+| Publications du Québec | [boutique.publicationsduquebec.gouv.qc.ca](https://boutique.publicationsduquebec.gouv.qc.ca/) | Salesforce (`/sfsites/`, `/webruntime/`) | [2026-10-25](preuves/boutique.publicationsduquebec.gouv.qc.ca.md) |
 | Régie de l'énergie | [regie-energie.qc.ca](https://www.regie-energie.qc.ca/) |  | [2026-10-23](preuves/regie-energie.qc.ca.md) |
 | Revenu Québec : Juste pour tous | [justepourtous.revenuquebec.ca](https://justepourtous.revenuquebec.ca/) |  | [2026-10-23](preuves/justepourtous.revenuquebec.ca.md) |
 | Santé Québec | [sante.quebec](https://sante.quebec/) | Nuxt | [2026-10-23](preuves/sante.quebec.md) |

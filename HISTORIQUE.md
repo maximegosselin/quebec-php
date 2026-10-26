@@ -4,6 +4,9 @@ Modifications du relevé, de la plus récente à la plus ancienne.
 
 ## 2026-10-25
 
+- Ajouté : Tribunaux judiciaires du Québec (tribunaux.qc.ca), TYPO3.
+- Ajouté : Services Québec, localisateur de bureaux (localisateur.servicesquebec.gouv.qc.ca), Drupal.
+- Ajouté : Publications du Québec (boutique.publicationsduquebec.gouv.qc.ca), sans signature de PHP (Salesforce).
 - Ajouté : Ministère de la Cybersécurité et du Numérique, Centre gouvernemental de cyberdéfense (cyber.gouv.qc.ca), sans signature de PHP.
 - Ajouté : Cégep de la Gaspésie et des Îles (cegepgim.ca), WordPress.
 - Ajouté : Consultation Québec (consultation.quebec.ca), sans signature de PHP (Decidim, sur Ruby on Rails).
