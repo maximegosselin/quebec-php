@@ -225,6 +225,7 @@ seulement.
 | Cégep de Jonquière | [cegepjonquiere.ca](https://cegepjonquiere.ca/) | PHP | 6 |  | [2026-10-23](preuves/cegepjonquiere.ca.md) |
 | Cégep de l'Abitibi-Témiscamingue | [cegepat.qc.ca](https://www.cegepat.qc.ca/) | WordPress | 4, 5, 6 |  | [2026-10-24](preuves/cegepat.qc.ca.md) |
 | Cégep de l'Outaouais | [cegepoutaouais.qc.ca](https://cegepoutaouais.qc.ca/) | WordPress | 1, 5, 6 |  | [2026-10-23](preuves/cegepoutaouais.qc.ca.md) |
+| Cégep de la Gaspésie et des Îles | [cegepgim.ca](https://cegepgim.ca/) | WordPress | 4, 5, 6 |  | [2026-10-25](preuves/cegepgim.ca.md) |
 | Cégep de La Pocatière | [cegeplapocatiere.qc.ca](https://cegeplapocatiere.qc.ca/) | WordPress | 1, 4, 5, 6 |  | [2026-10-23](preuves/cegeplapocatiere.qc.ca.md) |
 | Cégep de Lévis | [cegeplevis.ca](https://cegeplevis.ca/) | WordPress | 1, 4, 5, 6 |  | [2026-10-23](preuves/cegeplevis.ca.md) |
 | Cégep de Maisonneuve | [cmaisonneuve.qc.ca](https://cmaisonneuve.qc.ca/) | WordPress | 4, 5, 6 |  | [2026-10-23](preuves/cmaisonneuve.qc.ca.md) |
@@ -479,17 +480,16 @@ encore.
 
 | Organisation | Site | Statut |
 |---|---|---|
-| Institut national des mines | inmq.gouv.qc.ca | En maintenance (2026-10-24) |
+| Institut national des mines | inmq.gouv.qc.ca | En maintenance (2026-10-25) |
 
 ### Éducation
 
 | Organisation | Site | Statut |
 |---|---|---|
-| Cégep de la Gaspésie et des Îles | cegepgim.ca | Adresse introuvable : le nom de domaine ne résout pas, et l'ancienne adresse cgaspesie.qc.ca y redirige (2026-10-24) |
-| Centre de services scolaire de l'Or-et-des-Bois | cssob.gouv.qc.ca | Bloqué : 403 Forbidden, à faire à la main (2026-10-23) |
+| Centre de services scolaire de l'Or-et-des-Bois | cssob.gouv.qc.ca | Bloqué : 403 Forbidden, à faire à la main (2026-10-25) |
 
 ### Municipalités
 
 | Organisation | Site | Statut |
 |---|---|---|
-| Société de transport de l'Outaouais (STO) | sto.ca | En maintenance (2026-10-24) |
+| Société de transport de l'Outaouais (STO) | sto.ca | En maintenance (2026-10-25) |
