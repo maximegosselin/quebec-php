@@ -109,9 +109,9 @@ seulement.
 | Commission de protection du territoire agricole du Québec | [cptaq.gouv.qc.ca](https://www.cptaq.gouv.qc.ca/) | TYPO3 | 1, 2, 5 |  | [2026-10-23](preuves/cptaq.gouv.qc.ca.md) |
 | Commission des normes, de l'équité, de la santé et de la sécurité du travail (CNESST) | [cnesst.gouv.qc.ca](https://www.cnesst.gouv.qc.ca/) | Drupal | 1, 5 |  | [2026-10-24](preuves/cnesst.gouv.qc.ca.md) |
 | Commission des partenaires du marché du travail | [cpmt.gouv.qc.ca](https://cpmt.gouv.qc.ca/) | TYPO3 | 1, 2, 5 |  | [2026-10-23](preuves/cpmt.gouv.qc.ca.md) |
+| Commission des services juridiques | [csj.qc.ca](https://www.csj.qc.ca/) | WordPress | 1, 4, 5, 6 |  | [2026-10-25](preuves/csj.qc.ca.md) |
 | Commission des transports du Québec | [ctq.gouv.qc.ca](https://ctq.gouv.qc.ca/) | TYPO3 | 1, 2, 5 |  | [2026-10-23](preuves/ctq.gouv.qc.ca.md) |
 | Commission municipale du Québec | [cmq.gouv.qc.ca](https://cmq.gouv.qc.ca/) | PHP | 6, 8 | Cookie `PHPSESSID` relevé à la main (F12) | [2026-10-24](preuves/cmq.gouv.qc.ca.md) |
-| Commission québécoise des libérations conditionnelles | [cqlc.gouv.qc.ca](https://cqlc.gouv.qc.ca/) | TYPO3 | 1, 2 |  | [2026-10-23](preuves/cqlc.gouv.qc.ca.md) |
 | Conseil des arts et des lettres du Québec | [calq.gouv.qc.ca](https://calq.gouv.qc.ca/) | TYPO3 | 1, 2, 5 |  | [2026-10-23](preuves/calq.gouv.qc.ca.md) |
 | Conseil du patrimoine culturel du Québec | [cpcq.gouv.qc.ca](https://cpcq.gouv.qc.ca/) | WordPress | 1, 4, 5, 6 |  | [2026-10-23](preuves/cpcq.gouv.qc.ca.md) |
 | Conseil du statut de la femme | [csf.gouv.qc.ca](https://csf.gouv.qc.ca/) | WordPress | 4, 5, 6 |  | [2026-10-23](preuves/csf.gouv.qc.ca.md) |
@@ -382,7 +382,6 @@ indiquée en note ; sinon, la technologie n'est pas déterminée.
 | Commission d'évaluation de l'enseignement collégial | [ceec.gouv.qc.ca](https://ceec.gouv.qc.ca/) |  | [2026-10-23](preuves/ceec.gouv.qc.ca.md) |
 | Commission de toponymie | [toponymie.gouv.qc.ca](https://toponymie.gouv.qc.ca/) | ASP.NET (`.aspx`), par exemple [actualités](https://toponymie.gouv.qc.ca/ct/salle-de-presse/actualites/index.aspx) | [2026-10-23](preuves/toponymie.gouv.qc.ca.md) |
 | Commission des droits de la personne et des droits de la jeunesse | [cdpdj.qc.ca](https://cdpdj.qc.ca/) |  | [2026-10-23](preuves/cdpdj.qc.ca.md) |
-| Commission des services juridiques | [csj.qc.ca](https://csj.qc.ca/) |  | [2026-10-23](preuves/csj.qc.ca.md) |
 | Conservatoire de musique et d'art dramatique du Québec | [conservatoire.gouv.qc.ca](https://conservatoire.gouv.qc.ca/) |  | [2026-10-23](preuves/conservatoire.gouv.qc.ca.md) |
 | Institut de la statistique du Québec | [stat.gouv.qc.ca](https://stat.gouv.qc.ca/) | Next.js | [2026-10-23](preuves/stat.gouv.qc.ca.md) |
 | Musée national des beaux-arts du Québec | [mnbaq.org](https://mnbaq.org/) |  | [2026-10-23](preuves/mnbaq.org.md) |
@@ -448,7 +447,6 @@ indiquée en note ; sinon, la technologie n'est pas déterminée.
 | Centre de services scolaire des Hauts-Bois-de-l'Outaouais | [csshbo.gouv.qc.ca](https://csshbo.gouv.qc.ca/) |  | [2026-10-23](preuves/csshbo.gouv.qc.ca.md) |
 | Centre de services scolaire du Lac-Saint-Jean | [csslsj.gouv.qc.ca](https://csslsj.gouv.qc.ca/) |  | [2026-10-23](preuves/csslsj.gouv.qc.ca.md) |
 | Centre de services scolaire Marie-Victorin | [cssmv.gouv.qc.ca](https://cssmv.gouv.qc.ca/) | Nuxt | [2026-10-23](preuves/cssmv.gouv.qc.ca.md) |
-| Commission scolaire Central Québec | [cqsb.qc.ca](https://cqsb.qc.ca/) |  | [2026-10-23](preuves/cqsb.qc.ca.md) |
 | Commission scolaire English-Montréal | [emsb.qc.ca](https://emsb.qc.ca/) |  | [2026-10-23](preuves/emsb.qc.ca.md) |
 | École de technologie supérieure | [etsmtl.ca](https://etsmtl.ca/) |  | [2026-10-23](preuves/etsmtl.ca.md) |
 | Polytechnique Montréal | [polymtl.ca](https://polymtl.ca/) |  | [2026-10-23](preuves/polymtl.ca.md) |
@@ -490,6 +488,7 @@ encore.
 
 | Organisation | Site | Statut |
 |---|---|---|
+| Commission québécoise des libérations conditionnelles | cqlc.gouv.qc.ca | En maintenance (2026-10-25) |
 | Institut national des mines | inmq.gouv.qc.ca | En maintenance (2026-10-25) |
 
 ### Éducation
@@ -497,6 +496,7 @@ encore.
 | Organisation | Site | Statut |
 |---|---|---|
 | Centre de services scolaire de l'Or-et-des-Bois | cssob.gouv.qc.ca | Bloqué : 403 Forbidden, à faire à la main (2026-10-25) |
+| Commission scolaire Central Québec | cqsb.qc.ca | En maintenance (2026-10-25) |
 
 ### Municipalités
 
