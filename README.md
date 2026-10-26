@@ -26,6 +26,7 @@ modifications du relevé sont listées dans [l'historique](HISTORIQUE.md).
   - [Municipalités](#municipalités)
 - [Sites sans signature de PHP](#sites-sans-signature-de-php)
   - [Gouvernement](#gouvernement-1)
+  - [Ministères](#ministères-1)
   - [Organismes](#organismes-1)
   - [Sociétés d'État](#sociétés-détat-1)
   - [Santé](#santé-1)
@@ -363,6 +364,12 @@ indiquée en note ; sinon, la technologie n'est pas déterminée.
 | Consultation Québec | [consultation.quebec.ca](https://consultation.quebec.ca/) | Decidim, sur Ruby on Rails (`/decidim-packs/`, `/rails/active_storage/`) | [2026-10-25](preuves/consultation.quebec.ca.md) |
 | Légis Québec | [legisquebec.gouv.qc.ca](https://www.legisquebec.gouv.qc.ca/) | URL sans extension ; dossiers `/CSS/` et `/css/` mêlés ; feuilles de style `cyberlex` | [2026-10-23](preuves/legisquebec.gouv.qc.ca.md) |
 | Système électronique d'appel d'offres (SEAO) | [seao.gouv.qc.ca](https://www.seao.gouv.qc.ca/) |  | [2026-10-24](preuves/seao.gouv.qc.ca.md) |
+
+### Ministères
+
+| Organisation | Site | Notes | Vérifié le |
+|---|---|---|---|
+| Ministère de la Cybersécurité et du Numérique : Centre gouvernemental de cyberdéfense | [cyber.gouv.qc.ca](https://www.cyber.gouv.qc.ca/) | Statistiques Matomo | [2026-10-25](preuves/cyber.gouv.qc.ca.md) |
 
 ### Organismes
 
