@@ -359,6 +359,7 @@ indiquée en note ; sinon, la technologie n'est pas déterminée.
 | Organisation | Site | Notes | Vérifié le |
 |---|---|---|---|
 | Assemblée nationale du Québec | [assnat.qc.ca](https://www.assnat.qc.ca/) | ASP.NET (`.aspx`) | [2026-10-24](preuves/assnat.qc.ca.md) |
+| Consultation Québec | [consultation.quebec.ca](https://consultation.quebec.ca/) | Decidim, sur Ruby on Rails (`/decidim-packs/`, `/rails/active_storage/`) | [2026-10-25](preuves/consultation.quebec.ca.md) |
 | Légis Québec | [legisquebec.gouv.qc.ca](https://www.legisquebec.gouv.qc.ca/) | URL sans extension ; dossiers `/CSS/` et `/css/` mêlés ; feuilles de style `cyberlex` | [2026-10-23](preuves/legisquebec.gouv.qc.ca.md) |
 | Système électronique d'appel d'offres (SEAO) | [seao.gouv.qc.ca](https://www.seao.gouv.qc.ca/) |  | [2026-10-24](preuves/seao.gouv.qc.ca.md) |
 
